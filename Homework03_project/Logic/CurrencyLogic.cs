@@ -3,7 +3,6 @@ using Homework03_project.Repository;
 using Microsoft.Extensions.Options;
 using Homework03_project.Controllers;
 using Homework03_project.Logic;
-using Homework03_project.SQL;
 using Homework03_project.Configuration;
 using Homework03_project.Domain;
 using System.Reflection;
